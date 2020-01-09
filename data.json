@@ -1,0 +1,100 @@
+[
+    {
+        "title": "Assumption",
+        "definition": "Idea or thinking regarding factors or risks which could affect the progress or success of the plan, programme or policy.",
+        "additionalInformation": "An assumption is an idea or belief. In some cases two different stakeholder groups have different assumptions. When the two groups don’t know that they have different assumptions, it is because they have not tested (or checked) their assumptions with each other. Testing an assumption involves communicating it to others and seeing of they agree or disagree.",
+        "example": "A Ministry of Education in a developing country had a partnership programme with a donor organization. The Ministry prepared posters for schools.  The Ministry’s assumption was that the partner (the donor organization) would pay postage costs for mailing the posters to the schools.  The donor organization, however was not able to use funds to cover postage costs. The donor organization's assumption was that the Ministry knew the policy about not paying for postage. When it came time to distribute the posters, people realized that they had made assumptions. Posters could not be mailed until the problem of how to distribute them was solved. The unchecked (untested) assumptions caused a delay in schools reciving their posters.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/GatesofArctic.jpg",
+        "video": null,
+        "links": []
+    },
+    {
+        "title": "Baseline Study",
+        "definition": "An analysis describing the situation prior to a plan, programme or policy intervention, against which progress can be assessed or comparisons made.",
+        "additionalInformation": "A baseline study gives researchers and planners a clear understanding of the situation before a plan, programme or policy is implemented.  The baseline study is sometimes called formative research.  Baseline study data is compared with data from a similar study that is conducted after an intervention has occurred.  The comparison of data shows what has changed over the time between the baseline study and the second study. Not all plans or programmes include a baseline study, but some do. If a baseline study is included in a plan, it is one of the first activities in the plan. Baseline studies involve collecting and analyzing qualitative or quantitative data from a sample group.\nBaseline values are important for all indicators relating to behavior change and capacity strengthening. Baseline values should be available during the first 12 months of the Program/Project.",
+        "example": "School Enrolment Rates In 2014-2015,\na baseline study of school enrolment rates was conducted. The study showed that the enrolment rate for basic education grade 1- 11 is 22.83% for boys and 22.42% for girls. Some plans will be developed and implemented to improve school enrolment rates.  After they are implemented, another study of school enrolment rates will be conducted. The enrolment rates reported in the second study will be compared to the enrolment rates from the first study.\n The comparison may show that:\n• School enrolment rates have increased. Or\n• School enrolment rates have decreased. Or\n• School enrolment rates are unchanged.\nin many studies, the follow-up evaluations/ review/ studies explore why these differences happen in a particular context",
+        "image": null,
+        "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "links": [
+            "qualitative data",
+            "quantitative data",
+            "indicator"
+        ]
+    },
+    {
+        "title": "Data analysis",
+        "definition": "A process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful patterns and trends. Data analysis provides evidence, to be used in reaching conclusions, and informing decision-making.",
+        "additionalInformation": "Some data that is collected may not be useable.   For example, if a survey respondent checks both true and false in a response to a true/false question, that data cannot be used.  Data which is not useable is removed.  After all data that cannot be used is removed from a data set, it is time to analyse the data. Analysing the data involves sorting responses into various categories to understand trends and patterns. It may involve performing some calculations.\nQuantitative Data Analysis: Run descriptive statistics. Descriptive statistics include frequencies, percentages, median and mean values.\nTo calculate the percentage, It would need to define the numerator and denominator.\nQualitative data analysis: It will provide more in-depth understanding of the key study questions and of your quantitative findings. Analyze qualitative data with field staff, data collectors and relevant stakeholders to include their interpretation in the results. If feasible, conduct a portion of the qualitative data analysis with community members to include their interpretation and perspective.",
+        "example": "Test scores:  Student A: 50%, Student B: 60%, Student C: 70% Student D: 55%.  For this particular test, the passing grade is 50% Data analysis: Step 1 calculate total: 50+60+70+55 = 235.  Step 2 calculate average test score:  235/ 4 students = 58.75.  Step 3 identify patterns: All students received passing grades. Half of the students scored above average, half of the  students scored below average. None of students scored higher than 70%",
+        "image": "https://www.netclipart.com/pp/m/1-16570_school-clipart-png-school-board-clipart.png",
+        "video": "https://github.com/htetaunglin/moor_example/raw/master/video5sec.mp4",
+        "links": [
+            "evidence"
+        ]
+    },
+    {
+        "title": "Input",
+        "definition": "The financial, human, and material resources used for the programme.",
+        "additionalInformation": "The things people arrange, budget for or purchase at the start of or during an activity are inputs. Inputs may be goods or services.  The people doing the arranging, budgeting, purchasing, training, or providing technical advice are inputs. Results chains begin with inputs.",
+        "example": "Inputs for the activities to support 2016-2021 NESP Strategy 4.1 on Early Childhood Care and Development, Department of Basic Education  include: Human Resources:  MoE officers and Staff; research expertise, advice; Financial Resources: budget; Material Resources:  IT & other equipment logistics.",
+        "image": "https://www.netclipart.com/pp/m/1-16570_school-clipart-png-school-board-clipart.png",
+        "video": "https://github.com/htetaunglin/moor_example/raw/master/video5sec.mp4",
+        "links": [
+            "Results chain",
+            "activities"
+        ]
+    },
+    {
+        "title": "Lesson learned",
+        "definition": "Generalisation based on analysis of trends through monitoring and evaluation. Frequently, lessons highlight strengths or weaknesses in preparation, design, and /or implementation of a plan, programme or policy that affect performance, outcomes, and impact.",
+        "additionalInformation": "Learning from experience does not happen when people plan or take action. It happens later when we think/ reflect back about the process, and the results of the actions we took and try to understand the reasons for those results.\n\nThe value of  lessons-learned is that people identify ways of better achieving their goals in the future.",
+        "example": "An assistant director gave a presentation to a group of directors.  During the presentation, the power went out, so the audience could not see her PowerPoint slides. She continued presenting, but the audience did not clearly understand her main points. After the presentation, she realized that it would have been a good idea to have printed copies of the power point slides for the audience.  When her mentor asks what her lessons learned are, she responds \"next time I will bring printed copies of the PowerPoint slides for the audience in case the power goes out\"",
+        "image": "https://www.netclipart.com/pp/m/1-16570_school-clipart-png-school-board-clipart.png",
+        "video": "https://github.com/htetaunglin/moor_example/raw/master/video5sec.mp4",
+        "links": [
+            "performance"
+        ]
+    },
+    {
+        "title": "Outcome",
+        "definition": "The likely or actual change resulting from a plan, programme or policy intervention.",
+        "additionalInformation": "An outcome describes a future state which is different than the current state. An outcome is different from an output. In a results chain, outcomes are located after outupts and before impacts. Business plans, programmes and policies all include outcomes.\nAfter the programme activities have been implemented:\noutcomes (changes which occurred as a result of the programme activities being implemented) are measured using indicators. Outcomes may be short termed, intermediate termed or long termed. Short-term outcomes of educational programs may include changes in:\nAwareness–People recognize the problem or issue;\nknowledge– People understand the causes and potential solutions;\nSkills–People possess the skills needed to resolve the situation;\nMotivation–People have the desire to effect change;\nAttitude–People believe their actions can make a difference.\nIntermediate-term outcomes include changes that follow the short-term outcomes, such as changes in:\nPractices used by participants;\nBehaviors exhibited by people or organizations;\nPolicies adopted by governments,or organizations;\nTechnologies employed by end users;\nManagement strategies implemented by individuals or groups.",
+        "example": "The 2016 -2021 National Education Strategic Plan contains end outcomes which are to be achieved by 2021.  One of these outcomes is: \"successful transition to grade 1 by children who have completed 1 year of kindergarten\".",
+        "image": "https://www.netclipart.com/pp/m/1-16570_school-clipart-png-school-board-clipart.png",
+        "video": "https://github.com/htetaunglin/moor_example/raw/master/video5sec.mp4",
+        "links": [
+            "output",
+            "results chain",
+            "impact"
+        ]
+    },
+    {
+        "title": "Outputs",
+        "definition": "The products, goods and services produced by a plan, programme, or policy intervention necessary to achieve planned outcomes.",
+        "additionalInformation": "Outputs are different than outcomes. Outputs lead to outcomes. Outputs are tangible and countable; they can easily be measured. In a results chain, outputs are after activities and before outcomes.\nThe immediate results achieved at the program level through the execution of activities.",
+        "example": "The output of a training activity is the number of people who successfully complete the training.\nPeople (f/m)* usually regularly engaged in the project activities AND/OR directly benefit from a product or service",
+        "image": "https://www.netclipart.com/pp/m/1-16570_school-clipart-png-school-board-clipart.png",
+        "video": "https://github.com/htetaunglin/moor_example/raw/master/video5sec.mp4",
+        "links": [
+            "outcome",
+            "activities",
+            "results chain"
+        ]
+    },
+    {
+        "title": "Results Chain",
+        "definition": "The causal sequence for a plan, programme or policy that stipulates the necessary sequence of events beginning with inputs, moving through activities and outputs, and culminating in outcomes, impacts, and feedback . Also referred to as Program Logic or Theory of Change.",
+        "additionalInformation": "When we begin to develop a plan or programme, it is because there is a goal we need to/ want to achieve.  The results chain tool helps us to plan an organized approach to achieving that goal.  It reminds us to identify not only activities, but also inputs, outputs and outcomes needed to achieve the goal. The 'if/then' links between the different levels of a results chain need to be considered, as well as the underlyng assumptions and risks which may prevent planned results being achieved as planned at any level in the chain.\nResults Chain is useful in:\nPlanning a programme\nManaging a programme\nCommunicating about a programme\nObtaining buy-in for a programme\nReporting the results of a programme\nThe results should be achievable, clear and measurable. The SMARTer results provides more specific details regarding who will be targeted, when the result will be achieved, and the degree of change to expect.",
+        "example": "Departmental Annual Implementation Plan (DAIP) templates are based on the results chain. School Quality Improvement Plan (SQIP) templates are based on results chain.",
+        "image": "https://www.netclipart.com/pp/m/1-16570_school-clipart-png-school-board-clipart.png",
+        "video": "https://github.com/htetaunglin/moor_example/raw/master/video5sec.mp4",
+        "links": [
+            "inputs",
+            "activities",
+            "outputs",
+            "outcomes",
+            "impact",
+            "theory of change"
+        ]
+    }
+]
